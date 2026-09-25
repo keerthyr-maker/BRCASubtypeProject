@@ -47,6 +47,7 @@ represents cluster 0 most, based on the cross table. So the new patient could be
 
 
 ### How to run this project: pip install -r requirements.txt, clone the notebook
+- When cloning repo, run the CompilationofCode.ipynb to run all the python files
 
 ### How to test the project: pip install -r requirements-dev.txt && pytest
 
